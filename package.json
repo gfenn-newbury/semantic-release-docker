@@ -1,5 +1,5 @@
 {
-  "name": "@codedependant/semantic-release-docker",
+  "name": "@gfenn-newbury/semantic-release-docker",
   "private": false,
   "version": "4.4.0",
   "description": "docker package",
@@ -26,14 +26,14 @@
   "keywords": [
     "semantic-release"
   ],
-  "author": "Eric Satterwhite <esatterwhite@wi.rr.com>",
+  "author": "Guy Fenn-Newbury <guyn@live.co.uk>",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/esatterwhite/semantic-release-docker.git"
+    "url": "git+ssh://git@github.com/gfenn-newbury/semantic-release-docker.git"
   },
   "tap": {
     "ts": false,
