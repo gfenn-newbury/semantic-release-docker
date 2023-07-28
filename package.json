@@ -1,7 +1,7 @@
 {
   "name": "@gfenn-newbury/semantic-release-docker",
   "private": false,
-  "version": "4.4.0",
+  "version": "1.0.0",
   "description": "docker package",
   "main": "index.js",
   "files": [
